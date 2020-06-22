@@ -1,6 +1,5 @@
 
 # Stacks and Queues
-
 - Linear data structure
   - The data is organized in a linear order in which elements are linked one after the other
 - Limited access data structures, which is a subcase of sequential data structures
@@ -12,14 +11,18 @@
 - LIFO (Last in, First out)
 - Pancake, Hamburger
 - <strong>Functions:</strong>
-  - Push, Pop, and Peek
-  
+  - Push and Pop
+  - Peek
+    - Checking the first item in the queue without removing it
+    
+<img src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/06/03/screen-shot-2018-06-02-at-203523.png" width="500px" />
+    
 ## Queues
 - FIFO (First in, First out)
 - <strong>Functions:</strong>
-  - Enqueue and Dequeue, Size, Empty
-  - Peek
-    - Checking the first item in the queue without removing it
+  - Enqueue and Dequeue, Peak, Size, Empty
+    
+<img src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/03/screen-shot-2018-05-03-at-151021.png" width="500px" />
 
 # References
 - https://leetcode.com/explore/learn/card/queue-stack/
