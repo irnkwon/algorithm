@@ -19,6 +19,7 @@
     
 ## Queues
 - FIFO (First in, First out)
+- Queues at the ticket windows, Print job queues
 - <strong>Functions:</strong>
   - Enqueue and Dequeue, Peak, Size, Empty
     
