@@ -3,7 +3,8 @@
 - Dynamic array
   - Static array = fixed array = array
 - Collection of data elements, called nodes
-- Contains reference to the next node in the list
+  - Contains reference to the next node in the list
+- No indexing
 
 ## Types
 - Singly Linked List
