@@ -1,5 +1,5 @@
 
-# Tree
+# Trees
 - Collection of nodes connected by edges
 - Non-linear data structure like graph
 
