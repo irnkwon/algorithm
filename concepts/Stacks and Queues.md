@@ -2,8 +2,8 @@
 # Stacks and Queues
 - Linear data structure
   - The data is organized in a linear order in which elements are linked one after the other
-- Limited access data structures, which is a subcase of sequential data structures
-  - Linked List: sequential data structures
+- Limited access data structures, which is a subcase of sequential access data structures
+  - Linked List: sequential access data structures
   - Array: random access data structures
 - No indexing
 
