@@ -10,12 +10,14 @@ Simply navigate folders above and click the file you would like to view.
 - [Stacks and Queues](https://github.com/irnkwon/algorithm/blob/master/concepts/Stacks%20and%20Queues.md)
 - [Trees](https://github.com/irnkwon/algorithm/blob/master/concepts/Trees.md)
 - [Binary Search](https://github.com/irnkwon/algorithm/blob/master/concepts/Binary%20Search.md)
+- [Arrays and Strings](https://github.com/irnkwon/algorithm/blob/master/concepts/Arrays%20and%20Strings.md)
 
 ## Resources
 - [Coding Interview Univeristy](https://github.com/jwasham/coding-interview-university)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/)
 - [Cracking the Coding Interview](https://github.com/careercup/CtCI-6th-Edition)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ## Contributing
 Your contributions are always welcome! 
