@@ -36,5 +36,13 @@ function ListNode(val, next, prev) {
 }
 ```
   
+## Operations
+  
+| Access    | Search    | Insertion | Deletion  |
+| :-------: | :-------: | :-------: | :-------: |
+| O(n)      | O(n)      | O(1)      | O(1)      |
+
+- Access item from head: O(1)
+
 # Reference
 - https://leetcode.com/explore/learn/card/linked-list/
